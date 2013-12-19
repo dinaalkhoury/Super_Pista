@@ -1,0 +1,1 @@
+[28-Oct-2013 20:24:57 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/samofitc/public_html/blog/wp-content/themes/twentytwelve/tag.php on line 14
